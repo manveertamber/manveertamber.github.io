@@ -64,6 +64,9 @@ address="Cham",
 pages="163--176",
 abstract="One of the contributions of the landmark Dense Passage Retriever (DPR) work is the curation of a corpus of passages generated from Wikipedia articles that have been segmented into non-overlapping passages of 100 words. This corpus has served as the standard source for question answering systems based on a retriever--reader pipeline and provides the basis for nearly all state-of-the-art results on popular open-domain question answering datasets. There are, however, multiple potential drawbacks to this corpus. First, the passages do not include tables, infoboxes, and lists. Second, the choice to split articles into non-overlapping passages results in fragmented sentences and disjoint passages that models might find hard to reason over. In this work, we experimented with multiple corpus variants from the same Wikipedia source, differing in passage size, overlapping passages, and the inclusion of linearized semi-structured data. The main contribution of our work is the replication of Dense Passage Retriever and Fusion-in-Decoder training on our corpus variants, allowing us to validate many of the findings in previous work and giving us new insights into the importance of corpus pre-processing for open-domain question answering. With better data preparation, we see improvements of over one point on both the Natural Questions dataset and the TriviaQA dataset in end-to-end effectiveness over previous work measured using the exact match score. Our results demonstrate the importance of careful corpus curation and provide the basis for future work.",
 isbn="978-3-031-28241-6",
+pdf={pre-processing.pdf},
+preview={pre-processing.png},
+
 }
 
 
@@ -90,7 +93,10 @@ publisher="Springer Nature Switzerland",
 address="Cham",
 pages="148--162",
 abstract="Text retrieval using dense--sparse hybrids has been gaining popularity because of their effectiveness. Improvements to both sparse and dense models have also been noted, in the context of open-domain question answering. However, the increasing sophistication of proposed techniques places a growing strain on the reproducibility of results. Our work aims to tackle this challenge. In Generation Augmented Retrieval (GAR), a sequence-to-sequence model was used to generate candidate answer strings as well as titles of documents and actual sentences where the answer string might appear; this query expansion was applied before traditional sparse retrieval. Distilling Knowledge from Reader to Retriever (DKRR) used signals from downstream tasks to train a more effective Dense Passage Retrieval (DPR) model. In this work, we first replicate the results of GAR using a different codebase and leveraging a more powerful sequence-to-sequence model, T5. We provide tight integration with Pyserini, a popular IR toolkit, where we also add support for the DKRR-based DPR model: the combination demonstrates state-of-the-art effectiveness for retrieval in open-domain QA. To account for progress in generative readers that leverage evidence fusion for QA, so-called fusion-in-decoder (FiD), we incorporate these models into our PyGaggle toolkit. The result is a reproducible, easy-to-use, and powerful end-to-end question-answering system that forms a starting point for future work. Finally, we provide evaluation tools that better gauge whether models are generalizing or simply memorizing.",
-isbn="978-3-031-28241-6"
+isbn="978-3-031-28241-6",
+pdf={pygaggle.pdf},
+preview={pygaggle.png},
+
 }
 
 
@@ -107,6 +113,7 @@ isbn="978-3-031-28241-6"
   keywords={Sea ice;Synthetic aperture radar;Radar polarimetry;Training;Convolutional neural networks;Predictive models;Uncertainty;Convolutional neural network (CNN);ice concentration;synthetic aperture radar (SAR) data},
   doi={10.1109/JSTARS.2022.3141063},
   preview={accounting_ice.png},
+  pdf={Accounting_for_Label_Errors.pdf}
   }
 
 
@@ -122,4 +129,5 @@ isbn="978-3-031-28241-6"
   keywords={Microwave integrated circuits;Silicon carbide;Estimation;Predictive models;Tools;Convolutional neural networks;Microwave FET integrated circuits;sea ice;synthetic aperture radar;convolutional neural network},
   doi={10.1109/ANTEM51107.2021.9518875},
   preview={experiments_ice.png},
+  pdf={Experiments_with_estimation_of_sea_ice.pdf}
   }
