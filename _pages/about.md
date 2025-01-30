@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Science PhD student at the Cheriton School of Computer Science, University of Waterloo, supervised by Prof. Jimmy Lin. Before starting my PhD, I completed by bachelor’s degree in Computer Science at the University of Waterloo.
+I am a Computer Science PhD student at the Cheriton School of Computer Science, University of Waterloo, supervised by Prof. Jimmy Lin. Before starting my PhD, I completed by Bachelor’s degree in Computer Science at the University of Waterloo.
 
 My Research Interests Include:
   a
