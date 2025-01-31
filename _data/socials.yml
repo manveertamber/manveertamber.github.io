@@ -7,7 +7,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: mtamber@uwaterloo.ca.com # your email address
+email: mtamber@uwaterloo.ca # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: manveertamber # your GitHub user name
@@ -29,7 +29,7 @@ linkedin_username: manveer-tamber # your LinkedIn user name
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # set to true to show the RSS icon
+rss_icon: false # set to true to show the RSS icon
 scholar_userid: 8XlImLUAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -45,7 +45,7 @@ scholar_userid: 8XlImLUAAAAJ # your Google Scholar ID
 x_username: ManveerTamber # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+#custom_social: # can be any name here other than the ones already defined above
+#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+#  title: Custom Social
+#  url: https://www.alberteinstein.com/
