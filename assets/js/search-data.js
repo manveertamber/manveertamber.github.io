@@ -21,7 +21,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6D%74%61%6D%62%65%72@%75%77%61%74%65%72%6C%6F%6F.%63%61.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%74%61%6D%62%65%72@%75%77%61%74%65%72%6C%6F%6F.%63%61", "_blank");
         },
       },{
         id: 'social-github',
@@ -57,13 +57,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/ManveerTamber", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
