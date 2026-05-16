@@ -15,9 +15,9 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am a PhD student at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/), supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). Before starting my PhD, I completed a Bachelor’s degree in Computer Science at the University of Waterloo.
+I am a third-year PhD student at the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the [University of Waterloo](https://uwaterloo.ca/), supervised by [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). Before starting my PhD, I completed a Bachelor’s in Computer Science at the University of Waterloo.
 
-My research lies at the intersection of Natural Language Processing and Information Retrieval, centering on trustworthy information access with large language models. My work focuses on ensuring that these systems remain robust, secure, and faithful without sacrificing effectiveness and efficiency.
+I work on the alignment, safety, privacy, and robustness of large language models and LLM-based agents, at the intersection of LLM safety/security and information retrieval. My goal is to make sure these systems safely serve the people who depend on them, especially when the stakes are high.
 
 ### Why This Matters
-As LLMs increasingly shape how we access information online, their reliability and security have become non-negotiable. Yet current systems are fragile; they continue to hallucinate, remain vulnerable to adversarial manipulation, and introduce new risks as LLMs become increasingly capable. My research aims to harden this infrastructure, ensuring that next-generation systems are not only highly capable, but also safe, robust, and trustworthy.
+People are increasingly leaning on LLMs and LLM-based agents to make decisions and take actions on their behalf. As these systems become more capable, more autonomous, and more deeply embedded in real workflows, their failures can cause real harm at scale. My research is on understanding these failures and reducing the harm they cause.
